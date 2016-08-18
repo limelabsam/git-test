@@ -45,3 +45,5 @@ feature commit 1
 
 other stuff
 other stuff 2
+
+commit to be squashed
