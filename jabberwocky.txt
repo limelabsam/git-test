@@ -50,3 +50,4 @@ commit to be squashed
 another commit to be squashed
 master
 master
+merge feature
