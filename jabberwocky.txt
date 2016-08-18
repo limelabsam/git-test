@@ -4,8 +4,11 @@ And the mome raths outgrabe
 
 'Beware the Jabberwock, my son!
 The jaws the bite, the claws the catch!
+MASTER ADDITION
 Beware the Jubjub bird, and shun
 The frumious Bandersnatch!
+
+MASTER ADDITION
 
 He took his vorpal sword in hand:
 Long time the manxome foe he sought -
@@ -20,6 +23,7 @@ Came whiffling through the tuley SDK2
 And burbled as it came!
 
 One, two! One, two! And through and through
+MASTER ADDITION
 The vorpal blade went snicker-snack!
 He left it dead, and with its head
 He went galumphing back.
