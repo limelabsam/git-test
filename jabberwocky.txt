@@ -51,3 +51,5 @@ another commit to be squashed
 master
 master
 master
+merge feature
+merge feature
