@@ -44,3 +44,4 @@ master commit
 feature commit 1
 
 other stuff
+other stuff 2
